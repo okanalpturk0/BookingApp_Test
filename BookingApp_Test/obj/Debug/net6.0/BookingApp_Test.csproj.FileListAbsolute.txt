@@ -1,0 +1,17 @@
+C:\Users\showm\source\repos\BookingApp_Test\BookingApp_Test\obj\Debug\net6.0\BookingApp_Test.csproj.AssemblyReference.cache
+C:\Users\showm\source\repos\BookingApp_Test\BookingApp_Test\obj\Debug\net6.0\BookingApp_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\showm\source\repos\BookingApp_Test\BookingApp_Test\obj\Debug\net6.0\BookingApp_Test.AssemblyInfoInputs.cache
+C:\Users\showm\source\repos\BookingApp_Test\BookingApp_Test\obj\Debug\net6.0\BookingApp_Test.AssemblyInfo.cs
+C:\Users\showm\source\repos\BookingApp_Test\BookingApp_Test\obj\Debug\net6.0\BookingApp_Test.csproj.CoreCompileInputs.cache
+C:\Users\showm\source\repos\BookingApp_Test\BookingApp_Test\bin\Debug\net6.0\BookingApp_Test.exe
+C:\Users\showm\source\repos\BookingApp_Test\BookingApp_Test\bin\Debug\net6.0\BookingApp_Test.deps.json
+C:\Users\showm\source\repos\BookingApp_Test\BookingApp_Test\bin\Debug\net6.0\BookingApp_Test.runtimeconfig.json
+C:\Users\showm\source\repos\BookingApp_Test\BookingApp_Test\bin\Debug\net6.0\BookingApp_Test.dll
+C:\Users\showm\source\repos\BookingApp_Test\BookingApp_Test\bin\Debug\net6.0\BookingApp_Test.pdb
+C:\Users\showm\source\repos\BookingApp_Test\BookingApp_Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\showm\source\repos\BookingApp_Test\BookingApp_Test\obj\Debug\net6.0\BookingApp_Test.csproj.CopyComplete
+C:\Users\showm\source\repos\BookingApp_Test\BookingApp_Test\obj\Debug\net6.0\BookingApp_Test.dll
+C:\Users\showm\source\repos\BookingApp_Test\BookingApp_Test\obj\Debug\net6.0\refint\BookingApp_Test.dll
+C:\Users\showm\source\repos\BookingApp_Test\BookingApp_Test\obj\Debug\net6.0\BookingApp_Test.pdb
+C:\Users\showm\source\repos\BookingApp_Test\BookingApp_Test\obj\Debug\net6.0\BookingApp_Test.genruntimeconfig.cache
+C:\Users\showm\source\repos\BookingApp_Test\BookingApp_Test\obj\Debug\net6.0\ref\BookingApp_Test.dll
