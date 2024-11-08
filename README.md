@@ -11,7 +11,9 @@ The program ends when a blank line is entered.
 
 To run the program, write the example code to the terminal : .\BookingApp_Test.exe --hotels hotels.json --bookings bookings.json
 
-For the query in the "Availability(Hotel_ID,StartDate-EndDate(yyyymmdd),Hotel Type(For single SGL or for Double DBL ))" format entered into the program, the program gives the number of availability for the specified room type and the specified date range as output.
+For the query in the 
+"Availability(Hotel_ID,StartDate-EndDate(yyyymmdd),Hotel Type(For single SGL or for Double DBL ))" 
+format entered into the program, the program gives the number of availability for the specified room type and the specified date range as output.
 As an example you can try the below: 
 
 Availability(H1, 20240901, SGL)
